@@ -2,14 +2,21 @@
 
 This project is a simple demonstration of using Three.js to create an interactive 3D icosahedron with a graphical user interface (GUI) for adjusting various parameters. It is part of my learning journey with Three.js.
 
+## Tech Stack
+
+[![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)](https://threejs.org/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+
 ## Features
 
-- Displays a 3D icosahedron with a wireframe overlay
-- Allows real-time adjustment of the icosahedron's geometry (radius and level of detail)
-- Provides options to change the material color and shading of the icosahedron
-- Enables control over the wireframe color and visibility
-- Offers a hemisphere light with adjustable colors for the sky and ground
-- Includes orbit controls for interactive camera movement
+- 🌍 Displays a 3D icosahedron with a wireframe overlay
+- 🎛️ Allows real-time adjustment of the icosahedron's geometry (radius and level of detail)
+- 🎨 Provides options to change the material color and shading of the icosahedron
+- 🖌️ Enables control over the wireframe color and visibility
+- 💡 Offers a hemisphere light with adjustable colors for the sky and ground
+- 🎥 Includes orbit controls for interactive camera movement
 
 ## Installation
 
@@ -32,9 +39,9 @@ This project is a simple demonstration of using Three.js to create an interactiv
 
 ## File Structure
 ```
-.
-├── index.html
-└── index.js
+└── 📁your-project-directory
+    └── index.html
+    └── index.js
 ```
 - `index.html` - The main HTML file that sets up the scene and includes the necessary scripts.
 - `index.js` - The JavaScript file containing the Three.js code for creating the icosahedron and setting up the GUI.
