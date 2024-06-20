@@ -2,6 +2,10 @@
 
 This project is a simple demonstration of using Three.js to create an interactive 3D icosahedron with a graphical user interface (GUI) for adjusting various parameters. It is part of my learning journey with Three.js.
 
+## Live Demo
+
+Check out the live demo on GitHub Pages: [Three.js Icosahedron with lil-gui](https://somu-ed.github.io/threejs-icosahedron-gui/)
+
 ## Tech Stack
 
 [![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)](https://threejs.org/)
